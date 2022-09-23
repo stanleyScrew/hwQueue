@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+out/
+target/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.idea/
+/idea/
+/hwQueue
+*.iml
